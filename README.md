@@ -6,13 +6,13 @@
 
 - 📍 Located at the beautiful island of [Tenerife](https://www.google.com/maps/place/Santa+Cruz+de+Tenerife/@28.2836467,-16.6213036,11.25z/data=!4m13!1m7!3m6!1s0xc4029effe8682ed:0xb01a4bf1c84baf3c!2sTenerife!3b1!8m2!3d28.2915637!4d-16.6291304!3m4!1s0xc41cceccc254171:0x43111473d277e52e!8m2!3d28.4636359!4d-16.2518692) on Canary Islands, Spain.  
 
-- 👨‍💻 Check my personal website [https://aaronperez.me](https://aaronperez.me)
+- 👨‍💻 Check my personal [portfolio](https://aaronperez.me)
 
-- 🎮 I have a kind of diogenes syndrome on Steam [https://steamcommunity.com/id/Molotroco](https://steamcommunity.com/id/Molotroco)
+- 🎮 I have a kind of diogenes syndrome on [Steam](https://steamcommunity.com/id/Molotroco)
 
-- 📫 How to reach me **aarperper@gmail.com**
+- 📫 How to reach me [aarperper@gmail.com](mailto:aarperper@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aarperper/](https://www.linkedin.com/in/aarperper/)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/aarperper/)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronperezperez" alt="aaronperezperez" /></a> </p>
 
