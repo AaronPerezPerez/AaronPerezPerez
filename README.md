@@ -30,4 +30,4 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronperezperez&show_icons=true&locale=en" alt="aaronperezperez" /></p>
+<img align="center" src="https://github.com/AaronPerezPerez/terminal-stats/blob/master/github_stats.svg" alt="aaronperezperez" />
