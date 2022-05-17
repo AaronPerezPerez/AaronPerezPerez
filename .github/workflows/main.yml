@@ -17,5 +17,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_skyline: yes
           plugin_skyline_year: 2021
-          plugin_skyline_frames: 60
+          plugin_skyline_frames: 30
           plugin_skyline_quality: 1
