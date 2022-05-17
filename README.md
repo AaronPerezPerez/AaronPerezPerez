@@ -28,6 +28,6 @@
   </a>
 </p>
 
-<h3 align="center"><img align="center" src="https://github.com/AaronPerezPerez/terminal-stats/blob/master/github_stats.svg" alt="aaronperezperez" /></h3>
+<h3 align="center"><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></h3>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
