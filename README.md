@@ -28,6 +28,6 @@
   </a>
 </p>
 
-<h3 align="center"><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></h3>
+<h3 align="center"><img align="center" src="/metrics.plugins.skyline.svg" alt="Metrics" width="400"></h3>
 
 
