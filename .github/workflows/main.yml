@@ -17,7 +17,8 @@ jobs:
         with:
           filename: metrics.plugin.skyline.svg
           base: ""
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_skyline: yes
           plugin_skyline_year: 2020
-          plugin_skyline_frames: 6
+          plugin_skyline_frames: 120
           plugin_skyline_quality: 1
