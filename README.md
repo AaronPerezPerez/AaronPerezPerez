@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<h1 align="center"><img src = "./github-header-image.png" /></h1>
 
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 
