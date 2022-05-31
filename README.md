@@ -4,7 +4,7 @@
 
 
 <table style="border: 0px">
-  <td>
+  <td style="border: 0px">
 
     
  - 🔭 I’m currently working at [Acid Tango](https://acidtango.com/)
