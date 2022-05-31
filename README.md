@@ -3,7 +3,7 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 
 
-<table>
+<table style="border: 0px">
   <td>
 
     
