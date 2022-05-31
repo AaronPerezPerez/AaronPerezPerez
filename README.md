@@ -22,6 +22,8 @@
 <a href="https://instagram.com/aaronlane94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaronlane94" height="30" width="40" /></a>
 </p>
 
+<a href="https://app.daily.dev/AaronPerez"><img src="https://api.daily.dev/devcards/3604c3a6e82c475c88ae459a7c9657e6.png?r=hqy" width="400" alt="Aarón Pérez Pérez's Dev Card"/></a>
+
 <h3 align="left">Skills & Interests: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
 <p align="left">
   <a href="https://skillicons.dev">
