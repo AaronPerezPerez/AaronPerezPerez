@@ -15,7 +15,7 @@
 
 - 🎮 I have a kind of diogenes syndrome on [Steam](https://steamcommunity.com/id/Molotroco)
 
-- 📫 How to reach me [aarperper@gmail.com](mailto:aarperper@gmail.com)
+- 📫 Email me at [aarperper@gmail.com](mailto:aarperper@gmail.com)
 
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/aarperper/)
   </td>
