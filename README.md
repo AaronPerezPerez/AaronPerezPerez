@@ -20,7 +20,7 @@
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/aarperper/)
   </td>
   <td>
-    <a href="https://app.daily.dev/AaronPerez"><img src="https://api.daily.dev/devcards/3604c3a6e82c475c88ae459a7c9657e6.png?r=hqy" width="400" alt="Aarón Pérez Pérez's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AaronPerezPerez/AaronPerezPerez/blob/master/devcard.svg" width="400" alt="Ny Dev Card"/></a>
   </td>
   </table>
 <h3 align="left">Connect with me: </h3>
