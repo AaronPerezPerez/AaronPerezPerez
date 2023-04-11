@@ -13,7 +13,7 @@
 
 - 👨‍💻 Check my personal [portfolio](https://aaronperez.me)
 
-- 🎮 I have a kind of diogenes syndrome on [Steam](https://steamcommunity.com/id/Molotroco)
+- 🎮 I have a kind of Diogenes syndrome on [Steam](https://steamcommunity.com/id/Molotroco)
 
 - 📫 Email me at [aarperper@gmail.com](mailto:aarperper@gmail.com)
 
