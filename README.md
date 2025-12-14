@@ -24,7 +24,7 @@
 - 🚀 Currently working at **beonit**
 - 💼 Open to freelance projects: **Web solutions for small businesses**
 - 📧 Reach me: [aarperper@gmail.com](mailto:aarperper@gmail.com)
-- 🌐 Portfolio: [aaronperez.me](https://aaronperez.me)
+- 🌐 Portfolio: [https://aaron.perezperez.dev](https://aaron.perezperez.dev/)
 
 ### 📚 Currently Learning
 
